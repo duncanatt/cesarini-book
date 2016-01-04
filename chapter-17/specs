@@ -1,0 +1,7 @@
+[{['$1','$2'],[],[{message,true}]}].
+[{['$1','$2'],[],[{message,false}]}].
+[{['$1','$2'],[],[{exception_trace}]}].
+[{['$1','$2'],[],[{return_trace}]}].
+[{'_',[],[{message,{caller}}]}].
+[{'_',[],[{exception_trace},{message,{caller}}]}].
+[{'_',[],[{exception_trace}]}].
